@@ -3,7 +3,7 @@
 Search any GitHub profile and explore their repositories instantly.
 
 ## Live Demo
-[View App](your-github-pages-link-here)
+[View App](https://bitdrifter0x.github.io/GitSearch/)
 
 ## Features
 - Search GitHub users by username
